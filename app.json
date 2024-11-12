@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-bot (Ethix-MD)",
+  "name": "whatsapp-bot (DON-MD)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
@@ -10,7 +10,7 @@
       "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": "Ethix-MD&vF9kmUuB"
+      "value": "Ethix-MD&snbPnFDJ"
     },
     "MODE": {
       "description": "mode public or self",
